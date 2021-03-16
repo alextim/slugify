@@ -1,0 +1,20 @@
+{
+  "name": "at-slugify",
+  "description": "slugify",
+  "private": true,
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Oleksii Tymoshenko <buildmnt@gmail.com>",
+  "keywords": [
+    "js"
+  ],
+  "main": "index.js",
+  "homepage": "https://github.com/alextim/at-slugify",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alextim/at-slugify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alextim/at-slugify/issues"
+  }
+}
