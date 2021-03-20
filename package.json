@@ -9,7 +9,7 @@
   ],
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "echo \"Write tests!\" && exit 0"
   },
   "homepage": "https://github.com/alextim/at-slugify",
   "bugs": {
