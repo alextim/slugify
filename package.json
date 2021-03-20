@@ -1,7 +1,7 @@
 {
   "name": "@alextim/slugify",
   "description": "slugify",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "license": "MIT",
   "author": "Oleksii Tymoshenko <buildmnt@gmail.com>",
   "keywords": [
