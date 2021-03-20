@@ -8,6 +8,9 @@
     "js"
   ],
   "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
   "homepage": "https://github.com/alextim/at-slugify",
   "bugs": {
     "url": "https://github.com/alextim/at-slugify/issues"
